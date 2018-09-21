@@ -18,6 +18,8 @@ console.log(ffprobe.path);
 Version Notes
 ----
 
+Taygo Fork: Only supports Linux (64-bit) for lambda environment
+
 Currently supports Mac OS X (64-bit), Linux (32 and 64-bit) and Windows
 (32 and 64-bit).
 

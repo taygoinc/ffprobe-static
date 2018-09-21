@@ -1,14 +1,14 @@
 {
-  "name": "ffprobe-static",
-  "version": "3.0.0",
-  "description": "Static binaries for ffprobe.",
+  "name": "@taygo/ffprobe-static",
+  "version": "3.0.1",
+  "description": "Static binaries for ffprobe. Stripped down for lambda use",
   "main": "index.js",
   "scripts": {
     "test": "tape tests/*"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshwnj/ffprobe-static.git"
+    "url": "https://github.com/taygoinc/ffprobe-static.git"
   },
   "keywords": [
     "ffprobe",
