@@ -21,7 +21,7 @@ var ffprobePath = path.join(
   'bin',
   platform,
   arch,
-  platform === 'ffprobe'
+  'ffprobe'
 );
 
 exports.path = ffprobePath;

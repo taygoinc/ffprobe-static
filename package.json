@@ -1,6 +1,6 @@
 {
   "name": "@taygo/ffprobe-static",
-  "version": "3.0.1",
+  "version": "3.0.3",
   "description": "Static binaries for ffprobe. Stripped down for lambda use",
   "main": "index.js",
   "scripts": {
